@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "usha",
+      "email": "usha@gmail.com",
+      "phone": "6234567893"
+    },
+    {
+      "id": "2",
+      "name": "sai",
+      "email": "sai@gmail.com",
+      "phone": "2436567898"
+    },
+    {
+      "id": "3",
+      "name": "ram",
+      "email": "ram@gmail.com",
+      "phone": "1234567899"
+    },
+    {
+      "id": "4",
+      "name": "krishna",
+      "email": "krishna@gmail.com",
+      "phone": "9834567897"
+    },
+    {
+      "id": "5a96",
+      "name": "srinivas",
+      "email": "srinivas@gmail.com",
+      "phone": "64748373646"
+    },
+    {
+      "id": "72f5",
+      "name": "manikanta",
+      "email": "manikanta@gmail.com",
+      "phone": "3245765456"
+    },
+    {
+      "id": "74a6",
+      "name": "manikanta",
+      "email": "manikanta@gmail.com",
+      "phone": "3245765456"
+    },
+    {
+      "id": "cd4f",
+      "name": "vyshu",
+      "email": "vyshu@gmail.com",
+      "phone": "3253747484"
+    }
+  ]
+}
