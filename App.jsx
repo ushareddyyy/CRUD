@@ -35,7 +35,7 @@ const App = () => {
 }
 
 export default App */
-import React from 'react'
+/* import React from 'react'
 import { BrowserRouter,Routes,Route } from 'react-router-dom'
 import Create from './crudcomponents/Create'
 import Home from './crudcomponents/Home'
@@ -54,7 +54,7 @@ const App = () => {
   )
 }
 
-export default App
+export default App */
 /* import React from "react";
 import Card from "./card/Card";
 
@@ -65,5 +65,19 @@ const App = () => {
     </div>
   );
 };
-
 export default App; */
+import React from 'react'
+import CakeContainer from './reduxcomponent/CakeContainer'
+import {Provider} from "react-redux"
+import store from './redux/store'
+const App = () => {
+  return (
+    <div>App
+      <Provider store={store}>
+      <CakeContainer/>
+      </Provider>
+    </div>
+  )
+}
+
+export default App
